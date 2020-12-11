@@ -11,7 +11,7 @@ Thumbnail | Name | Description | Depth In|Reference |  Minimum Zoom | Maximum Zo
 ![thumbnail](/thumbnails/402301.png?raw=true) | 402301 | Northumberland Strait | fathoms| Canadian Hydrographic Service (CHS)| 0 | 13  | 8 | 46.5 | -63.03
 ![thumbnail](/thumbnails/402301.png?raw=true) | 402401 | Baie des Chaleurs to Iles de la Madeleine | fathoms| Canadian Hydrographic Service (CHS)| 0 | 13  | 8 | 48.17 | -63.65
 ![thumbnail](/thumbnails/UMP-pcPL.png?raw=true) | UMP-pcPL | Canada wide map with higher zoom levels in Atlantic Canada | --- | Mobile Atlas Creator - UMP-pcPL| 0 | 12  | 3 | 49.9 | -101.74
-![thumbnail](/thumbnails/rv_field.png?raw=true) | rv_field_map | Gulf Region RV Survey Field Map (low res) | fathoms | Nicolas Rolland| 0 | 13  | 7 | 47.61 | -63.33
+![thumbnail](/thumbnails/rv_survey.png?raw=true) | rv_field_map | Gulf Region RV Survey Field Map (low res) | fathoms | Nicolas Rolland| 0 | 13  | 7 | 47.61 | -63.33
 
 
 
