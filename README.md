@@ -1,16 +1,17 @@
 # Collection of Map Tiles for Usage with Leaflet JS
 
-Thumbnail | Name | Description | Minimum Zoom | Maximum Zoom | Reference | Start Zoom | Start Latitude | Start Longitude
---- | --- | --- | --- | --- | --- | --- | --- | ---
-![thumbnail](/thumbnails/400101.png?raw=true) | 400101 | Gulf of Maine to Strait of Belle Isle | 0 | 13 | Canadian Hydrographic Service (CHS) | 5 | 48.02 | -58.32
-![thumbnail](/thumbnails/400201.png?raw=true) | 400201 | Chart of the Gulf of St. Laurent | 0 | 13 | Canadian Hydrographic Service (CHS) | 7 | 47 | -62.4
-![thumbnail](/thumbnails/401001.png?raw=true) | 401001 | Bay of Fundy | 0 | 13 | Canadian Hydrographic Service (CHS) | 8 | 45.3 | -64.96
-![thumbnail](/thumbnails/401101.png?raw=true) | 401101 | Approaches to Bay of Fundy | 0 | 13 | Canadian Hydrographic Service (CHS) | 8 | 43.78 | -66.95
-![thumbnail](/thumbnails/401201.png?raw=true) | 401201 | Yarmouth to Halifax | 0 | 13 | Canadian Hydrographic Service (CHS) | 8 | 43.67 | -64.57
-![thumbnail](/thumbnails/401301.png?raw=true) | 401301 | Halifax to Sydney | 0 | 13 | Canadian Hydrographic Service (CHS) | 8 | 45.11 | -61.41
-![thumbnail](/thumbnails/402301.png?raw=true) | 402301 | Northumberland Strait | 0 | 13 | Canadian Hydrographic Service (CHS) | 8 | 46.5 | -63.03
-![thumbnail](/thumbnails/402301.png?raw=true) | 402401 | Baie des Chaleurs to Iles de la Madeleine | 0 | 13 | Canadian Hydrographic Service (CHS) | 8 | 48.17 | -63.65
-![thumbnail](/thumbnails/UMP-pcPL.png?raw=true) | UMP-pcPL | Canada wide map with higher zoom levels in Atlantic Canada | 0 | 12 | Mobile Atlas Creator - UMP-pcPL | 3 | 49.9 | -101.74
+Thumbnail | Name | Description | Minimum Zoom | Maximum Zoom | Reference | Depth In | Start Zoom | Start Latitude | Start Longitude
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+![thumbnail](/thumbnails/400101.png?raw=true) | 400101 | Gulf of Maine to Strait of Belle Isle | meters | 0 | 13 | Canadian Hydrographic Service (CHS) | 5 | 48.02 | -58.32
+![thumbnail](/thumbnails/400201.png?raw=true) | 400201 | Chart of the Gulf of St. Laurent | fathoms| 0 | 13 | Canadian Hydrographic Service (CHS) | 7 | 47 | -62.4
+![thumbnail](/thumbnails/401001.png?raw=true) | 401001 | Bay of Fundy | fathoms | 0 | 13 | Canadian Hydrographic Service (CHS) | 8 | 45.3 | -64.96
+![thumbnail](/thumbnails/401101.png?raw=true) | 401101 | Approaches to Bay of Fundy | fathoms| 0 | 13 | Canadian Hydrographic Service (CHS) | 8 | 43.78 | -66.95
+![thumbnail](/thumbnails/401201.png?raw=true) | 401201 | Yarmouth to Halifax | fathoms| 0 | 13 | Canadian Hydrographic Service (CHS) | 8 | 43.67 | -64.57
+![thumbnail](/thumbnails/401301.png?raw=true) | 401301 | Halifax to Sydney | fathoms| 0 | 13 | Canadian Hydrographic Service (CHS) | 8 | 45.11 | -61.41
+![thumbnail](/thumbnails/402301.png?raw=true) | 402301 | Northumberland Strait | fathoms| 0 | 13 | Canadian Hydrographic Service (CHS) | 8 | 46.5 | -63.03
+![thumbnail](/thumbnails/402301.png?raw=true) | 402401 | Baie des Chaleurs to Iles de la Madeleine | fathoms| 0 | 13 | Canadian Hydrographic Service (CHS) | 8 | 48.17 | -63.65
+![thumbnail](/thumbnails/UMP-pcPL.png?raw=true) | UMP-pcPL | Canada wide map with higher zoom levels in Atlantic Canada | --- | 0 | 12 | Mobile Atlas Creator - UMP-pcPL | 3 | 49.9 | -101.74
+![thumbnail](/thumbnails/rv_field.png?raw=true) | rv_field_map | Gulf Region RV Survey Field Map (low res) | fathoms | 0 | 13 | Nicolas Rolland | 7 | 47.61 | -63.33
 
 
 
