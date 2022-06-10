@@ -17,6 +17,7 @@ Thumbnail | Name           | Description                                        
 ![thumbnail](/thumbnails/13200.png?raw=true) | 13200          | Georges Banks and Nantucket Shoals                         | fathoms| NOAA                                | 0            | 13  | 8 | 41.51          | -67.55
 ![thumbnail](/thumbnails/UMP-pcPL.png?raw=true) | UMP-pcPL       | Canada wide map with higher zoom levels in Atlantic Canada | --- | Mobile Atlas Creator - UMP-pcPL| 0            | 12 | 3 | 49.9 | -101.74
 ![thumbnail](/thumbnails/rv_survey.png?raw=true) | gulf-rv-survey | Gulf Region RV Survey Field Map                            | fathoms | Nicolas Rolland| 0            | 13 | 7 | 47.61 | -63.33
+![thumbnail](/thumbnails/123601.png?raw=true) | 123601         | Chart of the Estuary of the St.Lawrence                         | fathoms| Canadian Hydrographic Service (CHS) | 0            | 13  | 8 | 48.6             | -68.1
 
 Here is a link to the [Mobile Atlas Creator](https://mobac.sourceforge.io/) which is a great open-sourced tool for generating maptiles
 
