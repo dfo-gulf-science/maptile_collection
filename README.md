@@ -16,7 +16,7 @@ Thumbnail | Name           | Description                                        
 ![thumbnail](/13260/thumbnail.png?raw=true) | 13260          | Bay of Fundy to Cape Cod                                   | fathoms  | NOAA | 0            | 13  | 8 | 44.58 | -66.67
 ![thumbnail](/13200/thumbnail.png?raw=true) | 13200          | Georges Banks and Nantucket Shoals                         | fathoms  | NOAA                                | 0            | 13  | 8 | 41.51          | -67.55
 ![thumbnail](/UMP/-pcPL/thumbnail.png?raw=true) | UMP-pcPL       | Canada wide map with higher zoom levels in Atlantic Canada | ---      | Mobile Atlas Creator - UMP-pcPL| 0            | 12 | 3 | 49.9 | -101.74
-![thumbnail](/gulf-rv_survey/thumbnail.png?raw=true) | gulf-rv-survey | Gulf Region RV Survey Field Map                            | fathoms  | Nicolas Rolland| 0            | 13 | 7 | 47.61 | -63.33
+![thumbnail](/gulf-rv-survey/thumbnail.png?raw=true) | gulf-rv-survey | Gulf Region RV Survey Field Map                            | fathoms  | Nicolas Rolland| 0            | 13 | 7 | 47.61 | -63.33
 ![thumbnail](/123601/thumbnail.png?raw=true) | 123601         | Chart of the Estuary of the St.Lawrence                    | fathoms  | Canadian Hydrographic Service (CHS) | 0            | 13  | 8 | 48.6             | -68.1
 ![thumbnail](/500101/thumbnail.png?raw=true) | 500101         | Labrador Sea                                               | meters   | Canadian Hydrographic Service (CHS) | 0            | 13  | 8 | 58.812            | -51.740
 
