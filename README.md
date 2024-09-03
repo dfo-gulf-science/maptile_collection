@@ -19,6 +19,7 @@ Thumbnail | Name           | Description                                        
 ![thumbnail](/gulf-rv-survey/thumbnail.png?raw=true) | gulf-rv-survey | Gulf Region RV Survey Field Map                            | fathoms  | Nicolas Rolland| 0            | 13 | 7 | 47.61 | -63.33
 ![thumbnail](/123601/thumbnail.png?raw=true) | 123601         | Chart of the Estuary of the St.Lawrence                    | fathoms  | Canadian Hydrographic Service (CHS) | 0            | 13  | 8 | 48.6             | -68.1
 ![thumbnail](/500101/thumbnail.png?raw=true) | 500101         | Labrador Sea                                               | meters   | Canadian Hydrographic Service (CHS) | 0            | 13  | 8 | 58.812            | -51.740
+![thumbnail](/CHS-57/thumbnail.png?raw=true) | CHS-57         | Gulf of Maine to Strait of Belle Isle                      | fathoms   | Canadian Hydrographic Service (CHS) | 0            | 13  | 8 |50.97 | -57.39
 
 Here is a link to the [Mobile Atlas Creator](https://mobac.sourceforge.io/) which is a great open-sourced tool for generating maptiles
 
